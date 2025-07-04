@@ -10,6 +10,8 @@ This Python script creates a simple graphical user interface (GUI) to randomly d
 * Randomly distributes present students from two grade levels (3rd and 4th year) evenly across groups.
 * Displays the grouped students in a scrollable text box.
 
+![screenshot](https://github.com/Ken-no-ubuntu/student_group_maker/blob/main/assets/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-07-04%20150828.png)
+
 ## Student Data
 
 * **4th Year Students:** A fixed list of 6 names.
@@ -25,6 +27,8 @@ This Python script creates a simple graphical user interface (GUI) to randomly d
    * Filters out absent students.
    * Shuffles and distributes the remaining 3rd and 4th year students evenly across the specified groups.
 4. Groups and their members are displayed in the output box.
+
+![screenshot](https://github.com/Ken-no-ubuntu/student_group_maker/blob/main/assets/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-07-04%20150843.png)
 
 ## Requirements
 
